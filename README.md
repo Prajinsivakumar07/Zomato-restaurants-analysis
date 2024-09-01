@@ -1,3 +1,6 @@
+![DASHBOARD 1](https://github.com/user-attachments/assets/5b7d9b9b-43a1-42f2-9fb7-ba09e8f9d078)
+![DASHBOARD 2](https://github.com/user-attachments/assets/e3b7bbc9-cc3d-43fc-94c7-f4d5ced5e672)
+
 Zomato Restaurant Data Analysis Project: This project involved analyzing Zomato restaurant data using advanced Excel functions and SQL queries, and creating interactive dashboards using Power BI and Tableau, and provides a valuable resource for anyone interested in learning more about these tools and techniques.
 
 Excel To achieve the objectives of the Zomato Restaurant Data Analysis project, various advanced Excel functions were used, including:
